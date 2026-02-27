@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+    <title>Euro Track | события</title>
+    <link>https://etska.vercel.app</link>
+    <description>новости о пробках и дтп</description>
+    <language>ru</language>
+    <lastBuildDate>Fri, 27 Feb 2026 15:30:00 +0300</lastBuildDate>
+    
+    <item>
+        <title>требования к игре</title>
+        <link>https://etska.vercel.app/trebovania.html</link>
+        <description></description>
+        <pubDate>Fri, 13 Feb 2026 10:00:00 +0300</pubDate>
+    </item>
+    
+    <item>
+        <title>лицензия от разработчиков</title>
+        <link>https://etska.vercel.app/osobennosti.html</link>
+        <description>новые фуры доступны с достижением определенного уровня прогрессии</description>
+        <pubDate>Tue, 10 Feb 2026 14:30:00 +0300</pubDate>
+    </item>
+    
+    <item>
+        <title>Мобильное приложение 2.0</title>
+        <link>https://etska.vercel.app/osobennosti.html</link>
+        <description>регестрийтесь удаленно с телефона</description>
+        <pubDate>Thu, 05 Feb 2026 11:15:00 +0300</pubDate>
+    </item>
+    
+    <item>
+        <title>малые комиссии на грузы</title>
+        <link>https://etska.vercel.app/dopolnenia.html</link>
+        <description>возите грузы без комиссии 30 дней.</description>
+        <pubDate>Sun, 01 Feb 2026 00:00:00 +0300</pubDate>
+    </item>
+    
+    <item>
+        <title>бонусы при регистрации</title>
+        <link>https://etska.vercel.app/dopolnenia.html</link>
+        <description>зарегистрируйтесь и получите денег на прокачку грузовика</description>
+        <pubDate>Sun, 01 Feb 2026 00:00:00 +0300</pubDate>
+    </item>
+    </channel>
+</rss>
